@@ -1,5 +1,4 @@
-# Name of project
-Automation Test Store testing using Cypress.
+# Automation Test Store testing using Cypress.
 
 ## Description
 
